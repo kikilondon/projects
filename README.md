@@ -1,6 +1,6 @@
 # Projects
 <h2>Portfolio<h2>
-<h3>Portfolio live: 
+<h3>Portfolio live: https://kikilondon.github.io/projects/
 <h3>Description<h3>
 <h4>This page is a gallery of projects. The projects are displayed in cards; each card has a dropdown menu with a description , and a link that takes you to the live project or to the files used to create it. The user can like the project, by clicking the heart button on the top right corner of each card. The gallery is totally responsive.<h4>
 
