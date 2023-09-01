@@ -90,7 +90,7 @@ main {
 .card {
     background-color: rgb(220, 220, 255);
     /* width:370px ;*/
-    height: 60vh;
+   /* height: 60vh;*/
     margin: 10px;
     border-radius: 10px;
     justify-content: center;
@@ -207,6 +207,18 @@ main {
 .card--image10 {
     background-image: url(../images/colours.jpg);
     width: 100%;
+    background-position: center;
+    background-size: cover;
+    
+    height:40vh;
+    border-radius: 10px 10px 0 0;
+    
+    
+}
+
+.card--image11 {
+    background-image: url(../images/crypto.png);
+    width: auto;
     background-position: center;
     background-size: cover;
     
